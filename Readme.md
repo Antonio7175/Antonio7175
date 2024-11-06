@@ -2,7 +2,7 @@
 
 ![Garban Java Logo](garban-java-high-resolution-logo.png) 
 
-¡Hola! Mi nombre es Antonio. Soy un apasionado programador de 24 años.
+¡Hola! Mi nombre es Antonio aunque normalmente me suelen llamar Garban debido a mi vida Scout. Soy un apasionado programador de 25 años.
 
 ## Sobre mí
 Desde que era joven, siempre he tenido una fascinación por la tecnología y la programación. A lo largo de los años, he adquirido habilidades en diferentes lenguajes de programación y tecnologías relacionadas.
